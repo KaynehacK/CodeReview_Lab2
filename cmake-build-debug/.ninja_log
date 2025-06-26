@@ -1,0 +1,24 @@
+# ninja log v6
+35	704	7726812609049961	build.ninja	5e1fa318c01d9765
+43	190	7726767645418123	CMakeFiles/Lab2.dir/2/Task02.cpp.obj	8efe0895e78e8297
+34	161	7726751808331261	CMakeFiles/Lab2.dir/1/Task01.cpp.obj	82c0de6df0c9bd68
+123	335	7726805338802477	Lab2.exe	14bb5a106c79211a
+73	501	7726761661135736	CMakeFiles/Lab2.dir/1/Task01Stack.cpp.obj	5e3209059d03f096
+66	462	7726761661065730	CMakeFiles/Lab2.dir/1/Task01Fixed.cpp.obj	c722baa06456d8f8
+38	313	7726786730801884	CMakeFiles/Lab2.dir/2/Task02Fixed.cpp.obj	abb95f5137c60b5d
+43	326	7726786730851885	CMakeFiles/Lab2.dir/2/Task02Queue.cpp.obj	524b1f79dd89f1ce
+43	246	7726805008558825	CMakeFiles/Lab2.dir/3/Task03LinkedList.cpp.obj	3fdbc35499e5cd3
+34	244	7726805008468832	CMakeFiles/Lab2.dir/3/Task03Fixed.cpp.obj	7927b6e3c02a5eab
+43	172	7726787236988240	CMakeFiles/Lab2.dir/3/Task03.cpp.obj	be163aaf377bb7f3
+38	179	7726812406869462	CMakeFiles/Lab2.dir/4/Task04DoubleLinkedList.cpp.obj	f8c20149c787e2db
+30	178	7726812406789455	CMakeFiles/Lab2.dir/4/Task04Fixed.cpp.obj	502b3709e5af00ef
+35	121	7726805337932399	CMakeFiles/Lab2.dir/4/Task04.cpp.obj	d6d0641fbfc8b79a
+42	176	7726812406919478	CMakeFiles/Lab2.dir/5/Task05DequeOperations.cpp.obj	f970eff2172acf07
+48	184	7726812406979496	CMakeFiles/Lab2.dir/5/Task05Fixed.cpp.obj	a5e115d10f085c32
+23	402	7726812609049961	build.ninja	5e1fa318c01d9765
+22	1060	7726812610340063	CMakeFiles/Lab2.dir/5/Task05.cpp.obj	2ba7ed842bf89e79
+1062	1245	7726812620727259	Lab2.exe	b53c6266b9fc306a
+36	145	7726817872434205	CMakeFiles/Lab2.dir/5/Task05.cpp.obj	2ba7ed842bf89e79
+50	1349	7726817872574225	CMakeFiles/Lab2.dir/5/Task05Fixed.cpp.obj	a5e115d10f085c32
+43	1737	7726817872504211	CMakeFiles/Lab2.dir/5/Task05DequeOperations.cpp.obj	f970eff2172acf07
+1737	2034	7726817889442346	Lab2.exe	b53c6266b9fc306a
