@@ -3,6 +3,11 @@
 
 #include <deque>
 #include <string>
+#include <iostream>
+#include <fstream>
+#include <cstdlib>
+#include <ctime>
+#include <stdexcept>
 
 class DequeOperations {
 public:

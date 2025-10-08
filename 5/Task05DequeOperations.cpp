@@ -1,9 +1,4 @@
 #include "Task05DequeOperations.h"
-#include <iostream>
-#include <fstream>
-#include <cstdlib>
-#include <ctime>
-#include <stdexcept>
 
 using namespace std;
 
@@ -22,7 +17,7 @@ void DequeOperations::InsertMiddleElements(deque<int>& d) {
 }
 
 deque<int> DequeOperations::InputFromKeyboard() {
-    int count;
+    int count = 0;
     cout << "Введите количество целых чисел (нечетное и >=5): ";
     cin >> count;
 
@@ -34,7 +29,7 @@ deque<int> DequeOperations::InputFromKeyboard() {
     deque<int> result;
     cout << "Введите " << count << " целых чисел:" << endl;
     for (int i = 0; i < count; ++i) {
-        int number;
+        int number = 0;
         cin >> number;
         result.push_back(number);
     }
@@ -78,8 +73,8 @@ deque<int> DequeOperations::ReadFromFile(const string& filename) {
 }
 
 void DequeOperations::PrintDeque(const deque<int>& d) {
-    for (const auto& elem : d) {
-        cout << elem << " ";
+    for (int i : d) {
+        cout << i << " ";
     }
     cout << endl;
 }

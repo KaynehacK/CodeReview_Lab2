@@ -70,7 +70,7 @@ void Queue::PrintAddresses() const {
     cout << endl;
 }
 
-int Queue::front_value() const {
+int Queue::get_front_value() const {
     if (IsEmpty()) {
         cerr << "Очередь пуста" << endl;
         return -1;
@@ -78,7 +78,7 @@ int Queue::front_value() const {
     return front->data;
 }
 
-int Queue::last_value() const {
+int Queue::get_last_value() const {
     if (IsEmpty()) {
         cerr << "Очередь пуста" << endl;
         return -1;

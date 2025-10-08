@@ -49,84 +49,6 @@ cmake_ninja_workdir = C$:/Documents/Работы/Университет/CodeRevi
 
 build cmake_object_order_depends_target_Lab2: phony || .
 
-build CMakeFiles/Lab2.dir/1/Task01.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/1/Task01.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\1\Task01.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\1
-
-build CMakeFiles/Lab2.dir/1/Task01Fixed.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/1/Task01Fixed.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\1\Task01Fixed.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\1
-
-build CMakeFiles/Lab2.dir/1/Task01Stack.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/1/Task01Stack.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\1\Task01Stack.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\1
-
-build CMakeFiles/Lab2.dir/2/Task02.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/2/Task02.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\2\Task02.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\2
-
-build CMakeFiles/Lab2.dir/2/Task02Fixed.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/2/Task02Fixed.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\2\Task02Fixed.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\2
-
-build CMakeFiles/Lab2.dir/2/Task02Queue.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/2/Task02Queue.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\2\Task02Queue.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\2
-
-build CMakeFiles/Lab2.dir/3/Task03.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/3/Task03.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\3\Task03.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\3
-
-build CMakeFiles/Lab2.dir/3/Task03Fixed.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/3/Task03Fixed.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\3\Task03Fixed.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\3
-
-build CMakeFiles/Lab2.dir/3/Task03LinkedList.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/3/Task03LinkedList.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\3\Task03LinkedList.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\3
-
-build CMakeFiles/Lab2.dir/4/Task04.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/4/Task04.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\4\Task04.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\4
-
-build CMakeFiles/Lab2.dir/4/Task04Fixed.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/4/Task04Fixed.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\4\Task04Fixed.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\4
-
-build CMakeFiles/Lab2.dir/4/Task04DoubleLinkedList.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/4/Task04DoubleLinkedList.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\4\Task04DoubleLinkedList.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\4
-
-build CMakeFiles/Lab2.dir/5/Task05.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/5/Task05.cpp || cmake_object_order_depends_target_Lab2
-  DEP_FILE = CMakeFiles\Lab2.dir\5\Task05.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Lab2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Lab2.dir\5
-
 build CMakeFiles/Lab2.dir/5/Task05DequeOperations.cpp.obj: CXX_COMPILER__Lab2_unscanned_Debug C$:/Documents/Работы/Университет/CodeReview/Lab2/5/Task05DequeOperations.cpp || cmake_object_order_depends_target_Lab2
   DEP_FILE = CMakeFiles\Lab2.dir\5\Task05DequeOperations.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
@@ -147,7 +69,7 @@ build CMakeFiles/Lab2.dir/5/Task05Fixed.cpp.obj: CXX_COMPILER__Lab2_unscanned_De
 #############################################
 # Link the executable Lab2.exe
 
-build Lab2.exe: CXX_EXECUTABLE_LINKER__Lab2_Debug CMakeFiles/Lab2.dir/1/Task01.cpp.obj CMakeFiles/Lab2.dir/1/Task01Fixed.cpp.obj CMakeFiles/Lab2.dir/1/Task01Stack.cpp.obj CMakeFiles/Lab2.dir/2/Task02.cpp.obj CMakeFiles/Lab2.dir/2/Task02Fixed.cpp.obj CMakeFiles/Lab2.dir/2/Task02Queue.cpp.obj CMakeFiles/Lab2.dir/3/Task03.cpp.obj CMakeFiles/Lab2.dir/3/Task03Fixed.cpp.obj CMakeFiles/Lab2.dir/3/Task03LinkedList.cpp.obj CMakeFiles/Lab2.dir/4/Task04.cpp.obj CMakeFiles/Lab2.dir/4/Task04Fixed.cpp.obj CMakeFiles/Lab2.dir/4/Task04DoubleLinkedList.cpp.obj CMakeFiles/Lab2.dir/5/Task05.cpp.obj CMakeFiles/Lab2.dir/5/Task05DequeOperations.cpp.obj CMakeFiles/Lab2.dir/5/Task05Fixed.cpp.obj
+build Lab2.exe: CXX_EXECUTABLE_LINKER__Lab2_Debug CMakeFiles/Lab2.dir/5/Task05DequeOperations.cpp.obj CMakeFiles/Lab2.dir/5/Task05Fixed.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Lab2.dir

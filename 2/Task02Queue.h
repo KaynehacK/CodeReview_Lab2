@@ -23,8 +23,8 @@ class Queue {
         bool IsEmpty() const;
         void Print() const;
         void PrintAddresses() const;
-        int front_value() const;
-        int last_value() const;
+        int get_front_value() const;
+        int get_last_value() const;
 };
 
 #endif //LAB2_TASK02QUEUE_H
