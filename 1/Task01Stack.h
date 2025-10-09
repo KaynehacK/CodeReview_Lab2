@@ -5,8 +5,8 @@
 
 class TNode {
     private:
-        int data;       // Значение узла
-        TNode* next;     // Указатель на следующий узел
+        int data;
+        TNode* next;
 
     public:
         TNode(int d) : data(d), next(nullptr) {}
@@ -15,7 +15,7 @@ class TNode {
 
 class Stack {
     private:
-        TNode* top;      // Указатель на вершину стека
+        TNode* top;
 
     public:
         Stack() : top(nullptr) {}
