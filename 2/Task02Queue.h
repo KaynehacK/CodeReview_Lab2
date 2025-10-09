@@ -11,8 +11,8 @@ struct Node {
 
 class Queue {
     private:
-        Node* front;    // Указатель на начало очереди
-        Node* last;     // Указатель на конец очереди
+        Node* front;
+        Node* last;
 
     public:
         Queue() : front(nullptr), last(nullptr) {}
